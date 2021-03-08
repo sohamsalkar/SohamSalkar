@@ -18,8 +18,6 @@
 <div align="center">
   
 ---
-[![HitCount](http://hits.dwyl.com/sohamsalkar/sohamsalkar.svg)](http://hits.dwyl.com/sohamsalkar/sohamsalkar)
-</div>
 
 <p align="center">
   <a href="https://github.com/sohamsalkar"></a><img src="https://visitor-badge.glitch.me/badge?page_id=sohamsalkar" height="28px" width="105px" alt="Visitors Counter">
