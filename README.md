@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hello there, I'm Soham 👨‍💻
+  Hello there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> , I'm Soham 👨‍💻
 </h1>
 
 <p align='center'>
@@ -11,8 +11,13 @@
   </a>&nbsp;&nbsp;  
 </p>
 
+
+<p align="center">
+  <a>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamsalkar&theme=dark&hide_border=true"/>
+</p>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sohamsalkar&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sohamsalkar&show_icons=true&count_private=true&theme=dark" width="500"></a>
 </p>
 
 <div align="center">
