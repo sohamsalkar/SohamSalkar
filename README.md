@@ -1,7 +1,6 @@
 <h1 align='center'>
   Hello there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> , I'm Soham 👨‍💻
 </h1>
-
 <p align='center'>
   <a href="https://www.linkedin.com/in/sohamsalkar/">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -14,7 +13,7 @@
 
 <p align="center">
    <a href="https://github.com/sohamsalkar/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="soham salkar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sohamsalkar&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="soham salkar's streak" src="http://github-readme-streak-stats.herokuapp.com?user=sohamsalkar&theme=algolia"/>
   </a>
 </p>
 <p align='center'>
