@@ -14,7 +14,7 @@
 
 <p align="center">
   <a>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamsalkar1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamsalkar&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
 </p>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sohamsalkar&show_icons=true&count_private=true&theme=dark" width="500"></a>
@@ -40,3 +40,7 @@
   <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" /
 </p>
+  
+  <p align = 'center'>
+  <img alt="Soham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sohamsalkar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  </p>
