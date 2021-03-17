@@ -14,7 +14,7 @@
 
 <p align="center">
   <a>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamsalkar&theme=dark&hide_border=true"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamsalkar1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats"/>
 </p>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sohamsalkar&show_icons=true&count_private=true&theme=dark" width="500"></a>
