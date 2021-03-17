@@ -13,8 +13,9 @@
 
 
 <p align="center">
-  <a>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamsalkar&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
+   <a href="https://github.com/sohamsalkar/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="soham salkar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sohamsalkar&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
+  </a>
 </p>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sohamsalkar&show_icons=true&count_private=true&theme=dark" width="500"></a>
