@@ -13,7 +13,7 @@
 
 <p align="center">
    <a href="https://github.com/sohamsalkar/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="soham salkar's streak" src="http://github-readme-streak-stats.herokuapp.com?user=sohamsalkar&theme=algolia"/>
+    <img alt="soham salkar's streak" src="http://github-readme-streak-stats.herokuapp.com?user=sohamsalkar&theme=algolia"/>
   </a>
 </p>
 <p align='center'>
