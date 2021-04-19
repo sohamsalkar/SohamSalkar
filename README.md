@@ -2,12 +2,15 @@
   Hello there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> , I'm Soham 👨‍💻
 </h1>
 <p align='center'>
-  <a href="https://www.linkedin.com/in/sohamsalkar/">
-     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
   <a href="https://instagram.com/sohamssalkar">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;  
+  </a>&nbsp;&nbsp; 
+  <a href="https://www.linkedin.com/in/sohamsalkar/">
+     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp; 
+  <a href="https://www.youtube.com/channel/UCqheBBaLG5DwpynX89ZE7VA">
+    <img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" />        
+  </a>&nbsp;&nbsp; 
 </p>
 
 
