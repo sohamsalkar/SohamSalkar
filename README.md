@@ -26,16 +26,18 @@
 <div align="center">
   
 ---
-
+<!---
 <p align="center">
   <a href="https://github.com/sohamsalkar"></a><img src="https://visitor-badge.glitch.me/badge?page_id=sohamsalkar" height="28px" width="105px" alt="Visitors Counter">
 </p>
-
+-->
+<!---
 <p align="center">
 <a href="#">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamsalkar&langs_count=10&layout=compact&theme=tokyonight" />
 </a>
 </p>
+-->
 
 <p align='center'>
   💻 My workspace<br/><br/>
@@ -45,5 +47,5 @@
 </p>
   
   <p align = 'center'>
-  <img alt="Soham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sohamsalkar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  <img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sohamsalkar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
   </p>
