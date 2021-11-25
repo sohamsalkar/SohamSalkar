@@ -41,7 +41,7 @@
 
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/Big%20SUR-FCC624?style=for-the-badge&logo=macOS&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MONTEREY-FCC624?style=for-the-badge&logo=macOS&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" /
 </p>
