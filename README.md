@@ -2,7 +2,7 @@
   Hello there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> , I'm Soham 👨‍💻
 </h1>
 <p align='center'>
-  <a href="https://instagram.com/sohamssalkar">
+  <a href="https://instagram.com/sohamsalkar">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp; 
   <a href="https://www.linkedin.com/in/sohamsalkar/">
